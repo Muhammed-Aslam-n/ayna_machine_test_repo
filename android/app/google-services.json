@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566672802241",
+    "project_id": "aynamachinetest",
+    "storage_bucket": "aynamachinetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566672802241:android:649fdcb2cd57990154af40",
+        "android_client_info": {
+          "package_name": "com.example.ayna_machine_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJakuogNW28h_nNRBxnCuF8OxF_Xqw8MA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
